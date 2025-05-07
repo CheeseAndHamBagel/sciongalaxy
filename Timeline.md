@@ -1,8 +1,22 @@
 500000 BC - the witnesses decide on their next project, Humanity, and start planning the sanitisation of the environment to give it optimal conditions, this includes the limitation of more sentient life evolving.
 
+200000BC - Homo Sapiens first appear in Africa
+
+62000BC - Bows and Arrows with stone tips are used
+
+25000BC - Humans cross the Bering Strait from Asia into the Americas
+
 8000 BC - An ancient future ship crashes into a planet in the far reaches of unknown space onto a planet destined to never be found
 
-4000 BC - The witnesses finish wiping out failed projects to leave space in the universe for humanity to fill and to eliminate unpredictable variables
+6500BC - England is cut off from Europe as the sea rises
+
+4250BC - Development of Copper and Bronze metallurgy
+
+4000 BC - The witnesses finish wiping out failed projects to leave space in the universe for humanity to fill and to eliminate unpredictable variables, the wheel is invented
+
+3000BC - Fired bricks start being used
+
+43AD - London is established by the Romans
 
 2508 - [[Notable Places#City 13|City 13]] explodes
 
@@ -55,3 +69,6 @@
 2626 - Wreckage of [[Notable Places#The Meridian|The Meridian]] is found and explored
 
 110033 - [[Galaxy#H-K5|Humanity]] is forced to believe in bedtime stories as a last hope for the survival of their species and their universe
+
+
+Refer to https://humanhistorytimeline.com/ for gaps
