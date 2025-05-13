@@ -5,7 +5,7 @@ There are not many stars in this galaxy left glowing. Each one has grown to deif
 - Lannel - Cooking / Sharing
 - Narca - Planets / Moons / Children
 - Raes - Cold / Death / Balance
-- Kah - Art / Creation / 
+- Kah - Art / Creation / Sleep
 - Nyss - Time / Madness / Dark
 - Aema - Navigation / Storytelling / Fate
 - Tur - Water / Peace / Decay
@@ -24,19 +24,16 @@ things to have gods of:
 3. Animals
 4. Plants
 5. Time
-6. Fate
-7. Balance
-8. Sleep
-9. Wisdom
-10. Memory
-11. Peace
-12. Plague
-13. Weaving
-14. Ambition
-15. Orphans
-16. Illusion
-17. Transformation
-18. Madness
+6. Wisdom
+7. Memory
+8. Peace
+9. Plague
+10. Weaving
+11. Ambition
+12. Orphans
+13. Illusion
+14. Transformation
+15. Madness
 
 Things there are not gods of:
 - strength
