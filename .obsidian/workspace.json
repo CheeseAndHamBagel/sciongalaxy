@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8ada009b7293e85d",
+        "id": "98ec24fe92a9a13c",
         "type": "tabs",
         "children": [
           {
-            "id": "2110e2d59a55a3bb",
+            "id": "304be9f9b786d3ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "3 - Shots in the dark/The Gods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "066c9e15c18a40b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - The penultimate day in the Damned 13th.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 - The penultimate day in the Damned 13th"
-            }
-          },
-          {
-            "id": "4192ec4effdd0511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.5 - Title Pending.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.5 - Title Pending"
+              "title": "The Gods"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9870e7d6fc2bcb28",
@@ -123,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.5 - Title Pending.md",
-                "collapseAll": false,
+                "file": "3 - Shots in the dark/The Gods.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.5 - Title Pending"
+              "title": "Backlinks for The Gods"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.5 - Title Pending.md",
+                "file": "3 - Shots in the dark/The Gods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1.5 - Title Pending"
+              "title": "Outgoing links from The Gods"
             }
           },
           {
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.5 - Title Pending.md",
+                "file": "3 - Shots in the dark/The Gods.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.5 - Title Pending"
+              "title": "Outline of The Gods"
             }
           }
         ]
@@ -191,44 +162,52 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "4192ec4effdd0511",
+  "active": "304be9f9b786d3ef",
   "lastOpenFiles": [
+    "3 - Shots in the dark/The Gods/Vesatus.md",
+    "3 - Shots in the dark/The Gods.md",
+    "3 - Shots in the dark/The Gods/Iba.md",
+    "3 - Shots in the dark/The Gods/Lannel.md",
+    "3 - Shots in the dark/The Gods/The Ferrymen.md",
+    "3 - Shots in the dark/The Gods/Narca.md",
+    "3 - Shots in the dark/The Gods/Raes.md",
+    "3 - Shots in the dark/The Gods/Wark.md",
+    "3 - Shots in the dark/The Gods/Untitled.md",
+    "3 - Shots in the dark/The Fray.md",
+    "Plan/Transmissions.md",
+    "Technology.md",
+    "Notable People.md",
+    "Plan/THE PLAN.md",
+    "Systems.md",
+    "Witness.md",
+    "Victoria Stone.md",
+    "Timeline.md",
+    "Player Data.md",
+    "Schedule.md",
+    "3 - Shots in the dark/The Gods",
+    "Untitled",
+    "4 -.md",
+    "Galaxy.md",
+    "Factions.md",
+    "3 - Shots in the dark",
+    "100000AD.md",
+    "1.5 - Title Pending.md",
+    "Corporations.md",
+    "Untitled.canvas",
+    "images/SierraVincent.jpg",
+    "images/SierraVincent.tiff",
     "images/Parsnap.jpg",
-    "images/SierraVictor.jpg",
     "images/SierraVictor.tiff",
     "images/Parsnap.tiff",
-    "images.md",
-    "1.5 - Title Pending.md",
     "images/7764a312-3b83-4c4b-b865-19af86b5d384.tiff",
     "images/ac880a7d-3a0a-48e4-bfcb-13e4d6df8278.tiff",
     "images",
-    "New folder",
-    "0 - The penultimate day in the Damned 13th.md",
-    "Notable Events.md",
-    "notes + mishmash.md",
-    "Timeline.md",
-    "1 - The Deep, the Dark and the Doomed.md",
-    "4 -.md",
-    "3 - Shots in the Dark.md",
-    "2 - Nightfall on the Meridian.md",
-    "Technology.md",
-    "Systems.md",
-    "NPC NAMES.md",
-    "Notable Places.md",
-    "Galaxy.md",
-    "Corporations.md",
-    "Untitled.canvas",
-    "Notable People.md",
-    "Plan/THE PLAN.md",
-    "Witness.md",
-    "Player Data.md",
-    "Plan/Transmissions.md",
-    "Factions.md"
+    "New folder"
   ]
 }

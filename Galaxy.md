@@ -1,11 +1,11 @@
 
 # The Scion Galaxy
 
-The Scion galaxy is [[Galaxy#H-K5|mankind]]'s home galaxy although the location of their home planet [[Systems#Core|Core-3]] is unknown. It is a spiral around a central black hole, The Epitome. One orbit of The Epitome is an Era. Traveling towards the rim is 'lighter and towards the centre is 'heavier' or 'darker' due to the proximity to the black hole, increased population and the cosmic pollution fogging the orbits of more central star systems. ^a52a2a
+The Scion galaxy is [[Galaxy#H-K5|mankind]]'s home galaxy, although the location of their home planet [[Systems#Core|Core-3]] is unknown. It is a spiral around a central black hole, The Epitome. One orbit of The Epitome is an Era. Traveling towards the rim is 'lighter and towards the centre is 'heavier' or 'darker' due to the proximity to the black hole, increased population and the cosmic pollution fogging the orbits of more central star systems.
 
 Every era signifies that a given system is 1 track closer to the black hole and its demise. Some important worlds are held in stable orbit near the centre and generally hold corporate or Governmental headquarters.
 
-Very expensive, experimental measures can be used to move wards between systems. This is usually used by the richest 0.001% humans to ever live to move their homes around to more favourable systems should it peak their fancy. 
+Very expensive, experimental measures can be used to move worlds between systems. This is usually used by the richest 0.001% humans to ever live to move their homes around to more favourable systems should it peak their fancy. 
 
 Wild worlds, worlds without official civilisation, are common across the lighter tracks of the galaxy because humans tend to stay together where the work and housing is: towards populated, darker, worlds. 
 
@@ -47,23 +47,22 @@ If a collision occurs, atoms in the area have been known to combine to form thei
 
 ### Superliminal Ships
 
-| Class | Size / Category | Purpose | Passenger Capacity | Freight Capacity | Manufacturer | Cost |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Dagger | Tiny / REDACTED | Military Infiltration | 1 Marine | Handheld Equipment only | [[Corporations#Ace]] | REDACTED |
-| Glaive | Small / Hyper Skimmer | Personal Travel | 1 Pilot + 1 seated | 2 x Standard luggage | [[Corporations#Ace]] | High |
-| Sabre | Medium / Freighter | Commerce transport | 2 Pilots + 3 Crew | 20 x Standard Crates + 1 x Standard Undercarriage Mount | [[Corporations#Ace]] | High |
-| Blunderbuss | Large / Shuttle Bus | Public transport | 2 Pilots + 72 seated | 74 x Standard Luggage | [[Corporations#Ace#Ace Racer]] | Unavailable for private purchase |
-| Ballista | Colossal / Freighter | Military or Bulk transport | 10 Pilots + 50 Crew | 20 x Rapier Class Fighters + 100 x Standard luggage | [[Corporations#Ace#Ace Racer]] | Extremely High |
-| Trebuchet | Colossal / Freighter | Military Personnel | 10 Pilots + 200 Marines | 200 Standard Equipment Crates + 3 x Standard Undercarriage Mount | [[Corporations#Ace]] | Very High |
-| Bombardment | Planetary / Freighter | Bulk Galactic Travel | 100 Pilots + 5000 Crew + 20000 Seated | 25100 x Standard Luggage + 5000 Standard Crates + 100 x Standard Hull Mount + 10 x Longsword Class Freighters | [[Corporations#Ace]] | Unattainable |
-| Excalibur | REDACTED / Unique Fighter | REDACTED | Unknown | Unknown | Unknown | -- |
+| Class       | Size / Category           | Purpose                    | Passenger Capacity                    | Freight Capacity                                                                                              | Manufacturer                              | Cost                             |
+| ----------- | ------------------------- | -------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | -------------------------------- |
+| Dagger      | Tiny / REDACTED           | Military Infiltration      | 1 Marine                              | Handheld Equipment only                                                                                       | [[Corporations#Ace\|Ace]]                 | REDACTED                         |
+| Glaive      | Small / Hyper Skimmer     | Personal Travel            | 1 Pilot + 1 seated                    | 2 x Standard luggage                                                                                          | [[Corporations#Ace\|Ace]]                 | High                             |
+| Sabre       | Medium / Freighter        | Commerce transport         | 2 Pilots + 3 Crew                     | 20 x Standard Crates + 1 x Standard Undercarriage Mount                                                       | [[Corporations#Ace\|Ace]]                 | High                             |
+| Blunderbuss | Large / Shuttle Bus       | Public transport           | 2 Pilots + 72 seated                  | 74 x Standard Luggage                                                                                         | [[Corporations#Ace#Ace Racer\|Ace Racer]] | Unavailable for private purchase |
+| Ballista    | Colossal / Freighter      | Military or Bulk transport | 10 Pilots + 50 Crew                   | 20 x Rapier Class Fighters + 100 x Standard luggage                                                           | [[Corporations#Ace#Ace Racer\|Ace Racer]] | Extremely High                   |
+| Trebuchet   | Colossal / Freighter      | Military Personnel         | 10 Pilots + 200 Marines               | 200 Standard Equipment Crates + 3 x Standard Undercarriage Mount                                              | [[Corporations#Ace\|Ace]]                 | Very High                        |
+| Bombardment | Planetary / Freighter     | Bulk Galactic Travel       | 100 Pilots + 5000 Crew + 20000 Seated | 25100 x Standard Luggage + 5000 Standard Crates + 100 x Standard Hull Mount + 10 x Longsword Class Freighters | [[Corporations#Ace\|Ace]]                 | Unattainable                     |
+| Excalibur   | REDACTED / Unique Fighter | REDACTED                   | Unknown                               | Unknown                                                                                                       | Unknown                                   | --                               |
 
 ### Subhorizonal Deadrops
-
-Dead drop locations placed at [[Galaxy#Superliminal|Superliminal]] orbit speeds just beneath the event horizon of a black hole, rendering them untraceable but only accessible at specific coordinates and times. Missing the entry window will result in [[Galaxy#Superliminal|Superliminal]] entry into a black hole. There are no confirmed reports of what happens when tachyon engines hit their limit in a black hole, although [[Corporations#Ace|Ace]] scientists report theories that link to breaching into the [[Witness#The Ascendancy|Ascendacy]]'s realm or speeding up [[Notable Events#The Unravelling|The Unravelling]].
+The advent of [[Galaxy#Superliminal|Superliminal]] travel means that ships are able to surpass the exit velocity required even when below the event horizon of a black hole. Dead drop locations are placed at [[Galaxy#Superliminal|Superliminal]] orbit speeds just beneath such horizons, rendering them untraceable but only accessible at specific coordinates and times. Missing the entry window will result in [[Galaxy#Superliminal|Superliminal]] entry into a black hole. There are no confirmed reports of what happens when tachyon engines hit their limit in a black hole, although [[Corporations#Ace|Ace]] scientists report theories that link to breaching into the [[Witness#The Ascendancy|Ascendacy]]'s realm or speeding up [[Notable Events#The Unravelling|The Unravelling]].
 ## Subliminal
 
- Subliminal travel, comprising only 4% of recorded travel encompasses two main categories: suspended animation ships and observatory safari ships.
+ Subliminal space travel, comprising only 4% of recorded travel encompasses two main categories: suspended animation ships and observatory safari ships.
 
 Observatory safari ships provide an opportunity for artists to explore and draw inspiration from the cosmos. These specialized vessels are equipped with advanced observation equipment and technology, enabling passengers to witness celestial phenomena first-hand. Artists who seek to tap into the vastness of the universe as a source of creativity opt for this mode of travel.
 
@@ -77,14 +76,14 @@ While fuel is rarer, [[Technology#TachyonEngines|Tachyon Engines]] are easier to
 
 ### Subliminal Ships
 
-Class | Size / Category | Purpose | Passenger Capacity | Freight Capacity | Manufacturer | Cost
--|-|-|-|-|-|-
-Cleaver | Small / Fighter | Military | 1 Pilot + 1 Co-pilot | Handheld Equipment only | [[Corporations#IBaSS]] | Low in bulk  
-Falchion | Large / Freighter | Military Transport | 2 Pilots + 8 Crew | 8 x Standard Crew Quarters + 15 Equipment Crates + 2 x Standard Payload + 1 x Standard Undercarriage Mount| [[Corporations#IBaSS]] | High
-Rapier | Medium / Bomber | Military | 2 Pilot + 2 Co-pilots | 2 x Standard Equipment Crates 8 x Standard Payload | [[Corporations#Dragonis]] | Moderate in bulk
-Longsword | Colossal / Freighter | Military fighter transport | 10 Pilots + 50 Crew | 20 x Cleaver Class Fighters + 100 x Standard Luggage | [[Corporations#Dragonis]] | Moderate
-Halberd | Large / Bomber | Stealth Engagement | 2 Pilots + 1 Co-pilot + 1 Marine | 1 x Cleaver Class Fighter + 400 x Standard Payload | [[Corporations#Dragonis]] | High
-Mortar | Planetary / Freighter | 
+| Class     | Size / Category       | Purpose                    | Passenger Capacity               | Freight Capacity                                                                                           | Manufacturer              | Cost             |
+| --------- | --------------------- | -------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- |
+| Cleaver   | Small / Fighter       | Military                   | 1 Pilot + 1 Co-pilot             | Handheld Equipment only                                                                                    | [[Corporations#IBaSS]]    | Low in bulk      |
+| Falchion  | Large / Freighter     | Military Transport         | 2 Pilots + 8 Crew                | 8 x Standard Crew Quarters + 15 Equipment Crates + 2 x Standard Payload + 1 x Standard Undercarriage Mount | [[Corporations#IBaSS]]    | High             |
+| Rapier    | Medium / Bomber       | Military                   | 2 Pilot + 2 Co-pilots            | 2 x Standard Equipment Crates 8 x Standard Payload                                                         | [[Corporations#Dragonis]] | Moderate in bulk |
+| Longsword | Colossal / Freighter  | Military fighter transport | 10 Pilots + 50 Crew              | 20 x Cleaver Class Fighters + 100 x Standard Luggage                                                       | [[Corporations#Dragonis]] | Moderate         |
+| Halberd   | Large / Bomber        | Stealth Engagement         | 2 Pilots + 1 Co-pilot + 1 Marine | 1 x Cleaver Class Fighter + 400 x Standard Payload                                                         | [[Corporations#Dragonis]] | High             |
+| Mortar    | Planetary / Freighter |                            |                                  |                                                                                                            |                           |                  |
 
 
 # H-K5

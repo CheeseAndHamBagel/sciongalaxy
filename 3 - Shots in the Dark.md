@@ -1,1 +1,0 @@
-The year is 110,003AD, the last vestiges of humanity are dying alone across the galaxy. We find ourselves on a planet called 

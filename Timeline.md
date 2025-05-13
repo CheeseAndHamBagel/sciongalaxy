@@ -24,7 +24,7 @@
 
 2556 - [[Systems#Radon|Radon]] collapses into [[Galaxy#The Scion Galaxy|the Epitome]]
 
-2557 - New [[Technology#Robots#AURA|AURA]] model is announced by [[Corporations#Sphere Intelligence|Spint]]
+2557 - New [[Technology#Robots#AURA|AURA]] model is announced by [[Corporations#Sphere Intelligence|Sphere Intelligence]]
 
 2559 - [[Factions#AEGIS|AEGIS]] begins acts of minor terrorism on corporations that crossed their turf 
 

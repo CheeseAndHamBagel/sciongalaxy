@@ -63,10 +63,12 @@ Rumoured to be part of [[Factions#The Merger|The Merger]]
 # Omnicon
 What remained of [[Corporations#OmniCorp|OmniCorp]] was disbanded and came together in secret to form Omnicon. They currently produce no official product and their existence is unknown to most. However, their logo has been spotted on various things on lighter worlds such as data disks and [[Galaxy#Superliminal Ships|Superliminal ships]].
 # OmniCorp
+#unfinished
 
 # Sphere Intelligence
-
+#unfinished
 # TitaniCorp
+#unfinished
 Rumoured to be part of [[Factions#The Merger|The Merger]]
 
 # Wrathwhile Systems
