@@ -12,7 +12,6 @@ Solely responsible for [[Notable Events#The Unravelling|The Unravelling]] in thi
 
 Directly in control of the few [[Technology#Tachyon Generator|Tachyon Generator]]s that supply power across the galaxy. They are on a planetary scale and distributed evenly across Ace systems so that citizens have easy access to power.
 
-
 Controls the central currency? called like Ace Checkmarks or something? When its secrets break the currency crashes and the economy collapses
 
 ## The Board

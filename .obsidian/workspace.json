@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "98ec24fe92a9a13c",
+        "id": "9055d0c7c987697a",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Shots in the dark/The Gods.md",
+                "file": "Corporations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Gods"
+              "title": "Corporations"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 259.5
   },
   "right": {
     "id": "9870e7d6fc2bcb28",
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -170,8 +171,25 @@
   },
   "active": "304be9f9b786d3ef",
   "lastOpenFiles": [
-    "3 - Shots in the dark/The Gods/Vesatus.md",
+    "Technology.md",
+    "Systems.md",
+    "Player Data.md",
+    "Factions.md",
+    "Galaxy.md",
+    "0 - The penultimate day in the Damned 13th.md",
+    "2 - Nightfall on the Meridian.md",
+    "4 -.md",
+    "1 - The Deep, the Dark and the Doomed.md",
+    "1.5 - Title Pending.md",
+    "Notable People.md",
+    "Notable Places.md",
+    "Witness.md",
+    "Corporations.md",
+    "Timeline.md",
+    "Notable Events.md",
+    "3 - Shots in the dark/The Fray.md",
     "3 - Shots in the dark/The Gods.md",
+    "3 - Shots in the dark/The Gods/Vesatus.md",
     "3 - Shots in the dark/The Gods/Iba.md",
     "3 - Shots in the dark/The Gods/Lannel.md",
     "3 - Shots in the dark/The Gods/The Ferrymen.md",
@@ -179,26 +197,9 @@
     "3 - Shots in the dark/The Gods/Raes.md",
     "3 - Shots in the dark/The Gods/Wark.md",
     "3 - Shots in the dark/The Gods/Untitled.md",
-    "3 - Shots in the dark/The Fray.md",
-    "Plan/Transmissions.md",
-    "Technology.md",
-    "Notable People.md",
-    "Plan/THE PLAN.md",
-    "Systems.md",
-    "Witness.md",
-    "Victoria Stone.md",
-    "Timeline.md",
-    "Player Data.md",
-    "Schedule.md",
     "3 - Shots in the dark/The Gods",
     "Untitled",
-    "4 -.md",
-    "Galaxy.md",
-    "Factions.md",
     "3 - Shots in the dark",
-    "100000AD.md",
-    "1.5 - Title Pending.md",
-    "Corporations.md",
     "Untitled.canvas",
     "images/SierraVincent.jpg",
     "images/SierraVincent.tiff",

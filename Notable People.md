@@ -45,7 +45,7 @@ Officially it was dismantled after the [[Notable Events#The Fiscal Fracture|Fisc
 
 An anagram of "Victoria Stone", this is the name Victoria uses to hide her dealings outside of what she is legally allowed above board. 
 
-She used this name to organise [[Notable Events#Operation Nightfall|Operation Nightfall]] by releasing a job and a note. After years of searching and rumours she has narrowed down the location of her precious [[Player Data#H.A.M.M.|prototye]] to a few select ships. She sends each of these a message and a job. She then puts out a hit on them too, labelling them as fugitives, and instructing for the destruction or capture of their ship.
+She used this name to organise [[Notable Events#Operation Nightfall|Operation Nightfall]] by releasing a job and a note. After years of searching and rumours she has narrowed down the location of her precious [[Player Data#H.A.M.M.|prototype]] to a few select ships. She sends each of these a message and a job. She then puts out a hit on them too, labelling them as fugitives, and instructing for the destruction or capture of their ship.
 
 By issuing the note she is gathering all of the potential threats into one place, at which point she intends to use [[Corporations#Ace|Ace]] military forces to invade and destroy the station on the argument it is harbouring dangerous fugitives. 
 

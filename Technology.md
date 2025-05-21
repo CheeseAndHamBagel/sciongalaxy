@@ -47,7 +47,7 @@ Called MeE's for short?
 
 # Tachyon Engines
 
-Engines based on the technology used in [[Technology#Tachyon Generator|Tachyon Generator]]]] but inside out to supercharge the fabric of space time to propel a craft at [[Galaxy#Superliminal|Superliminal travel]] speeds. Manufactured by [[Corporations#Ace|Ace]] only although there are known cases of some being scavenged in lighter systems and rigged up to smuggling ships to access [[Galaxy#Superliminal#Subhorizonal Deadrops|Subhorizonal Deaddrops]].
+Engines based on the technology used in [[Technology#Tachyon Generator|Tachyon Generator]] but inside out to supercharge the fabric of space time to propel a craft at [[Galaxy#Superliminal|Superliminal travel]] speeds. Manufactured by [[Corporations#Ace|Ace]] only although there are known cases of some being scavenged in lighter systems and rigged up to smuggling ships to access [[Galaxy#Superliminal#Subhorizonal Deadrops|Subhorizonal Deaddrops]].
 
 ## Tachyon Generator
 
